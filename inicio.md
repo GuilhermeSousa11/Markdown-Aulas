@@ -4,12 +4,11 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
 
 > # Disciplina Configuração de Software
 
- [Acessar area Linux](#Linux)
+ [Acessar Linux](#Linux)
 
-Acessar area Windows
+ [Acessar Windows](#Windows)
 
-Acessar informações complementares
-
+ [Acessar Informações Complementares](#Complementares)
 
 
   Este repositório apresenta meu conhecimento sobre configurações de software.
@@ -21,11 +20,11 @@ Acessar informações complementares
 - sudo apt update (buscar atualizações)
     
 - sudo apt search (procurar programas/pacotes)
-    
+
+
 > ## Windows
   ### Comandos básicos do Windows
  
-
 
 > ## Informações Complementares
 
