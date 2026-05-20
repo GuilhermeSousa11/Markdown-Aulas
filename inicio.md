@@ -15,7 +15,7 @@
 
 ## Windows
   ### Comandos básicos do Windows
-
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LSdT7SxMeQha1gxY1rvflJrOmqc0ozaXxg&s"/>
 
 ## Informações Complementares
 
