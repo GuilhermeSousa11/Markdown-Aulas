@@ -1,4 +1,4 @@
-# Guia Guilherme
+# Guia Guilherme Sousa
 
 Este repositório apresenta meu conhecimento sobre configurações de software.
 
