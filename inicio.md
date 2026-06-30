@@ -10,7 +10,7 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
 
  [Acessar Windows](#Windows)
 
- [Acessar Informações Complementares](#Informações)
+ [Acessar Informações Complementares](#Informacoes)
 
 
 > ## Linux
