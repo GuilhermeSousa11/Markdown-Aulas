@@ -4,7 +4,7 @@ Este repositório apresenta meu conhecimento sobre configurações de software.
 
 Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#links).
 
-> # Disciplina Configuração de Software
+> # Disciplina Manutenção e Configuração de Software
 
  [Acessar Linux](#Linux)
 
